@@ -3,8 +3,9 @@
 </p>
 
 <h3 >WELCOME TO MY PAGE 👋👋👋</h3>
+
 <p>
   My name is <b>Huy Sang</b>. 
   I am interested in the following topics:
-  <b>Deep Learning for Computer Vision</b> and <b>Large Language Models</b>.
+  <b>Deep Learning for Computer Vision</b> and <b>LLM</b>.
 </p>
