@@ -1,7 +1,7 @@
 <!-- 🌌 Banner -->
 
 <p align="center">
-  <img src="./assets/banner2.png" alt="Banner" width="100%" height="350px" />
+  <img src="./assets/banner2.png" alt="Banner" width="100%" height="300px" />
 </p>
 
 
