@@ -5,7 +5,6 @@
 
 <!-- 👋 Introduction -->
 <h2 align="center">WELCOME TO MY PAGE 👋👋👋</h2>
-
 <p align="center">
   My name is <b>Huy Sang</b>. I am interested in the following topics:<b>Deep Learning for Computer Vision</b> and <b>LLM</b>.
 </p>
