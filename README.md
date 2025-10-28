@@ -1,10 +1,7 @@
 <!-- 🌌 Banner -->
+
 <p align="center">
-    <img src="./assets/3.jpg" alt="Banner" height="700px" style="transform: rotate(90deg);" />
-</p>    
-<!--
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" height="350px" />
+  <img src="./assets/banne2.jpg" alt="Banner" width="100%" height="350px" />
 </p>
 
 
