@@ -1,15 +1,21 @@
+<!-- 🌌 Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" height="370px" />
+  <img src="./assets/banner.png" alt="Banner" width="100%" height="300px" />
 </p>
 
-<h3 align="center">WELCOME TO MY PAGE 👋👋👋</h3>
+<!-- 👋 Introduction -->
+<h2 align="center">WELCOME TO MY PAGE 👋👋👋</h2>
 
 <p align="center">
-  My name is <b>Huy Sang</b>. 
-  I am interested in the following topics:<b>Deep Learning for Computer Vision</b> and <b>LLM</b>.
+  My name is <b>Huy Sang</b>.<br>
+  I am interested in the following topics:<br>
+  <b>Deep Learning for Computer Vision</b> and <b>Large Language Models (LLM)</b>.
 </p>
 
-### 🚀 Featured Repositories
+
+<!-- 🚀 Featured Repositories -->
+<!---
+<h3 align="center">🚀 Featured Repositories</h3>
 
 <p align="center">
   <a href="https://github.com/HuySang-04/face_attendance">
@@ -28,3 +34,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=yolo-form-scratch&theme=gruvbox" />
   </a>
 </p>
+--!>
