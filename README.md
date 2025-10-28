@@ -1,6 +1,6 @@
 <!-- 🌌 Banner -->
 <p align="center">
-  <img src="./assets/3.png" alt="Banner" width="100%" height="300px" style="transform: rotate(90deg);" />
+  <img src="./assets/3.jpg" alt="Banner" width="100%" height="300px" style="transform: rotate(90deg);" />
 </p>
 
 <!-- 👋 Introduction -->
