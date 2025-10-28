@@ -1,7 +1,12 @@
 <!-- 🌌 Banner -->
 <p align="center">
+    <img src="./3.jpg" alt="Banner" height="700px" style="transform: rotate(90deg);" />
+</p>    
+<!--
+<p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%" height="350px" />
 </p>
+
 
 <!-- 👋 Introduction -->
 <h2 align="center">WELCOME TO MY PAGE 👋👋👋</h2>
@@ -31,4 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=yolo-form-scratch&theme=gruvbox" />
   </a>
 </p>
---!>
+---!>
