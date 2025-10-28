@@ -6,5 +6,5 @@
 <p>
   My name is <b>Huy Sang</b>. 
   I am interested in the following topics:
-  <b>Deep Learning for Computer Vision</b> and <b>Large Language Models (LLM)</b>.
+  <b>Deep Learning for Computer Vision</b> and <b>Large Language Models</b>.
 </p>
