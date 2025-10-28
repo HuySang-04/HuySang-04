@@ -1,6 +1,6 @@
 <!-- 🌌 Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" height="400px" />
+  <img src="./assets/banner.png" alt="Banner" width="100%" height="350px" />
 </p>
 
 <!-- 👋 Introduction -->
