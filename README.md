@@ -12,8 +12,7 @@
 </p>
 
 
-<!-- 🚀 Featured Repositories -->
-<!---
+<!--
 <h3 align="center">🚀 Featured Repositories</h3>
 
 <p align="center">
@@ -33,4 +32,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=yolo-form-scratch&theme=gruvbox" />
   </a>
 </p>
----!>
+
