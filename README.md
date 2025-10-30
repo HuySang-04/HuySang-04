@@ -1,13 +1,13 @@
 <!-- 🌌 Banner -->
 
-<!-- <p align="center">
-  <img src="./assets/banner2.png" alt="Banner" width="100%" height="300px" />
-</p>  -->
-
-
 <p align="center">
+  <img src="./assets/banner2.png" alt="Banner" width="100%" height="300px" />
+</p>  
+
+
+<!-- <p align="center">
   <img src="./assets/gif1.gif" width="100%" height="400px" alt="demo gif">
-</p>
+</p> -->
 
 
 <!-- 👋 Introduction -->
