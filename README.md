@@ -1,9 +1,13 @@
 <!-- 🌌 Banner -->
-
 <p align="center">
-  <img src="./assets/banner2.png" alt="Banner" width="100%" height="300px" />
+  <img src="./assets/gif1.gif" width="100%" alt="demo gif">
 </p>
 
+<!--
+<p align="center">
+  <img src="./assets/banner2.png" alt="Banner" width="100%" height="300px" />
+</p> 
+-->
 
 <!-- 👋 Introduction -->
 <h2 align="center">WELCOME TO MY PAGE 👋👋👋</h2>
