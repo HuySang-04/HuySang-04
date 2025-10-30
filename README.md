@@ -1,14 +1,14 @@
 <!-- 🌌 Banner -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner2.png" alt="Banner" width="100%" height="300px" />
-</p> 
+</p>  -->
 
-<!--
+
 <p align="center">
-  <img src="./assets/gif1.gif" width="80%" height="330px" alt="demo gif">
+  <img src="./assets/gif1.gif" width="100%" height="400px" alt="demo gif">
 </p>
--->
+
 
 <!-- 👋 Introduction -->
 <h2 align="center">WELCOME TO MY PAGE 👋👋👋</h2>
@@ -17,8 +17,7 @@
 </p>
 
 
-<!--
-<h3 align="center">🚀 Featured Repositories</h3>
+<!-- <h3 align="center">🚀 Featured Repositories</h3>
 
 <p align="center">
   <a href="https://github.com/HuySang-04/face_attendance">
@@ -36,5 +35,5 @@
   <a href="https://github.com/HuySang-04/yolo-form-scratch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=yolo-form-scratch&theme=gruvbox" />
   </a>
-</p>
+</p> -->
 
