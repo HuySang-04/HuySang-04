@@ -1,6 +1,6 @@
 <!-- 🌌 Banner -->
 <p align="center">
-  <img src="./assets/gif1.gif" width="100%" height="300px" alt="demo gif">
+  <img src="./assets/gif1.gif" width="80%" height="330px" alt="demo gif">
 </p>
 
 <!--
